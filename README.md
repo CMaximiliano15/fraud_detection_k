@@ -1,2 +1,2 @@
-# fraud_detection_ml
-Analyzing Fraud Detection Dataset from Kaggle
+# Project 1: Analyzing Fraud Detection Dataset from Kaggle
+- 
